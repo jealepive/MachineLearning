@@ -1,2 +1,2 @@
 # MachineLearning
-Machine Learning Projects and Useful information
+MML Projects and useful information about it!
